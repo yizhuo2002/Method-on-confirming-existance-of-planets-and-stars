@@ -1,1 +1,2 @@
 # Method-on-confirming-existance-of-planets-and-stars
+Method used on confirming the existence of a star or a planet by using data from NASA to obtain their radius and other parameters to check if it is within the range of the classification of a star or a planet. the loop is mostly automate but still requires some manually input which can be easily found online. This method is a based on the combination of solar oscillator from lightkurve package and ACF(autocorrelation Function).
